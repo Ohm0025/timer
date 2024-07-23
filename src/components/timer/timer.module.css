@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.select {
+  width: 100px;
+  margin: 0 5px;
+}
+
+.separator {
+  font-size: 24px;
+}
